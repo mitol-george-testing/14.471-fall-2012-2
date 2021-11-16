@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Public Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ae6e8160-ad6f-3cca-bdac-c889cfb860bc",
+      "dcdd5fa5-1aa9-1781-6fd1-2c9f28fc3c8f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Public Economics I",
+  "course_description": "This course covers theory and evidence on government taxation policy. Topics include tax incidence, optimal tax theory, the effect of taxation on labor supply and savings, taxation and corporate behavior, and tax expenditure policy.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.471",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
